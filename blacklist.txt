@@ -1,0 +1,9 @@
+# Roku
+amoeba.web.roku.com
+assets.sr.roku.com
+cloudservices.roku.com
+p.ads.roku.com
+prod.mobile.roku.com
+wwwimg.roku.com
+
+f2.shared.global.fastly.net
