@@ -17,8 +17,6 @@ use-application-dns.net
 # ===============================================================
 # STREAMING
 # ===============================================================
-# Brightcove
-ssaimanifest.prod.boltdns.net
 
 # Roku
 amoeba.web.roku.com
