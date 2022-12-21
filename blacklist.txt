@@ -23,6 +23,7 @@ ssaimanifest.prod.boltdns.net
 # Roku
 amoeba.web.roku.com
 assets.sr.roku.com
+austin.logs.roku.com
 cloudservices.roku.com
 p.ads.roku.com
 prod.mobile.roku.com
