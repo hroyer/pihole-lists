@@ -1,3 +1,22 @@
+# Title: Blocklist
+#
+# Personal blocklist
+#
+# Date: 21 December 2022 19:14:00 (UTC)
+#
+# ===============================================================
+
+# Mozilla Canary domain
+# Note: The canary domain only applies to users who have DoH enabled as the default option.
+# It does not apply for users who have made the choice to turn on DoH by themselves.
+# Source: https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
+use-application-dns.net
+
+# Adobe
+cc-api-preview.adobe.io
+cc-api-storage.adobe.io
+cc-api-data.adobe.io
+
 # Roku
 amoeba.web.roku.com
 assets.sr.roku.com
@@ -6,4 +25,15 @@ p.ads.roku.com
 prod.mobile.roku.com
 wwwimg.roku.com
 
+# NYTimes Paywall
+mwcm.nytimes.com
+meter-svc.nytimes.com
+
+# Brightcove
+ssaimanifest.prod.boltdns.net
+
+# Le Devoir
+analytics.ledevoir.com
+
+# Misc
 f2.shared.global.fastly.net
