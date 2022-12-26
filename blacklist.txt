@@ -1,6 +1,6 @@
 # Personal blocklist
 #
-# Date: 21 December 2022
+# Date: 2022/12/26
 #
 # ===============================================================
 
@@ -38,6 +38,14 @@ analytics.ledevoir.com
 # NYTimes Paywall
 meter-svc.nytimes.com
 mwcm.nytimes.com
+
+# ===============================================================
+# SHOPPING
+# ===============================================================
+
+# Mark's / L'Équipeur
+click.email.marks.com
+cloud.email.marks.com
 
 # ===============================================================
 # SOCIAL MEDIA
