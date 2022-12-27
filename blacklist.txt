@@ -1,12 +1,14 @@
-# Personal blocklist
-#
-# Date: 2022/12/26
+# Personal blacklist
+# Last update: 2022/12/27
+# 
+# Homepage: https://github.com/hroyer/pihole-lists
+# Issues: https://github.com/hroyer/pihole-lists/issues
+# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/blacklist.txt
 #
 # ===============================================================
 
-# ===============================================================
 # UTILITY
-# ===============================================================
+# ---------------------------------------------------------------
 
 # Mozilla Canary domain
 # Note: The canary domain only applies to users who have DoH enabled as the default option.
@@ -15,8 +17,33 @@
 use-application-dns.net
 
 # ===============================================================
+
+# IOT
+# ---------------------------------------------------------------
+
+# Philips hue
+diag.meethue.com
+diagnostics.huedatastore.com
+
+# MEDIA OUTLETS
+# ---------------------------------------------------------------
+
+# Le Devoir
+analytics.ledevoir.com
+
+# NYTimes Paywall
+meter-svc.nytimes.com
+mwcm.nytimes.com
+
+# SHOPPING
+# ---------------------------------------------------------------
+
+# Mark's / L'Équipeur
+click.email.marks.com
+cloud.email.marks.com
+
 # STREAMING
-# ===============================================================
+# ---------------------------------------------------------------
 
 # Roku
 amoeba.web.roku.com
@@ -28,57 +55,8 @@ prod.mobile.roku.com
 scribe.logs.roku.com
 wwwimg.roku.com
 
-# ===============================================================
-# MEDIA OUTLETS
-# ===============================================================
-
-# Le Devoir
-analytics.ledevoir.com
-
-# NYTimes Paywall
-meter-svc.nytimes.com
-mwcm.nytimes.com
-
-# ===============================================================
-# SHOPPING
-# ===============================================================
-
-# Mark's / L'Équipeur
-click.email.marks.com
-cloud.email.marks.com
-
-# ===============================================================
-# SOCIAL MEDIA
-# ===============================================================
-
-# Twitter
-abs-0.twimg.com
-abs.twimg.com
-api.twitter.com
-blog.twitter.co
-cdn.cms-twdigitalassets.com
-developers.twitter.com
-fonts.twitter.com
-help.twitter.com
-mobile.twitter.co
-mobile.twitter.co.uk
-mobile.twitter.com
-mobile.twitter.com.au
-pbs.twimg.com
-platform.twitter.com
-syndication.twitter.com
-twitter.co
-twitter.co.uk
-twitter.com
-twitter.com.au
-www.twitter.co
-www.twitter.co.uk
-www.twitter.com
-www.twitter.com.au
-
-# ===============================================================
 # MISC.
-# ===============================================================
+# ---------------------------------------------------------------
 
 # Adobe
 cc-api-data.adobe.io
