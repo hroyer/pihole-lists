@@ -85,5 +85,8 @@ cc-api-data.adobe.io
 cc-api-preview.adobe.io
 cc-api-storage.adobe.io
 
+# Apple
+metrics.icloud.com
+
 # Other
 f2.shared.global.fastly.net
