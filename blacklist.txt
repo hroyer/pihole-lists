@@ -45,6 +45,8 @@ cloud.email.marks.com
 # STREAMING
 # ---------------------------------------------------------------
 
+metrics.brightcove.com
+
 # Roku
 amoeba.web.roku.com
 assets.sr.roku.com
