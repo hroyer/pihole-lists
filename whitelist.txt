@@ -1,0 +1,56 @@
+# Personal whitelist
+# Last update: 2022/12/27
+# 
+# Homepage: https://github.com/hroyer/pihole-lists
+# Issues: https://github.com/hroyer/pihole-lists/issues
+# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/whitelist.txt
+#
+# ===============================================================
+
+# Apple
+albert.apple.com
+appldnld.apple.com
+appleid.apple.com
+captive.apple.com
+configuration.apple.com
+crl.apple.com
+deimos3.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+gdmf.apple.com
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+gs.apple.com
+humb.apple.com
+identity.apple.com
+ig.apple.com
+iprofiles.apple.com
+itunes.apple.com
+lcdn-registration.apple.com
+mdmenrollment.apple.com
+mesu.apple.com
+ns.itunes.apple.com
+ocsp.apple.com # Apple Certificate Validation
+oscdn.apple.com
+osrecovery.apple.com
+ppq.apple.com
+setup.icloud.com
+skl.apple.com
+static.ips.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swpost.apple.com
+swscan.apple.com
+tbsc.apple.com
+time-ios.apple.com
+time.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+vpp.itunes.apple.com
+xp.apple.com
+
+# Spotify
+apresolve.spotify.com
+spclient.wg.spotify.com
