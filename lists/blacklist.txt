@@ -1,5 +1,5 @@
 # Personal blacklist
-# Last update: 2022/12/27
+# Last update: 2022/12/28
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
