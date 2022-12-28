@@ -29,6 +29,7 @@ iprofiles.apple.com
 itunes.apple.com
 lcdn-registration.apple.com
 mdmenrollment.apple.com
+mediaservices.cdn-apple.com
 mesu.apple.com
 ns.itunes.apple.com
 ocsp.apple.com # Apple Certificate Validation
