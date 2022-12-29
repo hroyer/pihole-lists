@@ -1,6 +1,7 @@
 # Personal blacklist [Work in progress]
-# Lightweight list that blocks most ads and trackers on the website I most frequently use,
-# with a focus on Canadian, Québécois, and French language websites.
+# Lightweight (as much as possible) list that blocks most ads and trackers
+# on the website I most frequently use, # with a focus on 
+# Canadian, Québécois, and French language websites.
 # 
 # Last update: 2022/12/29
 # 
@@ -44,6 +45,7 @@ analytics360.omerloclients.com
 
 # Radio-Canada
 logstash-3.radio-canada.ca
+radiocanada.sc.omtrdc.net
 stats.radio-canada.ca
 
 # SHOPPING
@@ -72,6 +74,9 @@ trk.pinterest.com
 
 # Brightcove
 metrics.brightcove.com
+
+# Crave
+bellmedia.sc.omtrdc.net
 
 # Netflix
 ichnaea.netflix.com
@@ -110,12 +115,19 @@ api2.amplitude.com
 app-measurement.com
 
 # Apple
+api-adservices.apple.com
+ca.iadsdk.apple.com
 metrics.icloud.com
 
 # Bing
 bat.bing.com
 
+# Branch
+api2.branch.io
+
 # Braze
+sdk.iad-01.braze.com
+sdk.iad-03.braze.com
 sdk.iad-05.braze.com
 
 # Casale Media / Index Exchange
@@ -211,6 +223,9 @@ tpc.googlesyndication.com
 www.google-analytics.com
 www.googletagmanager.com
 
+# JW Player
+prd.jwpltx.com
+
 # LiveChat
 secure.livechatinc.com
 
@@ -231,12 +246,21 @@ z.moatads.com
 events.data.microsoft.com
 self.events.data.microsoft.com
 
+# mParticle
+config2.mparticle.com
+identity.mparticle.com
+
 # MPulse
 s.go-mpulse.net
 s2.go-mpulse.net
 
 # NewRelic
 js-agent.newrelic.com
+mobile-collector.newrelic.com
+
+# Permutive
+api.permutive.app
+cdn.permutive.app
 
 # Piano
 api-v3.tinypass.com
@@ -253,6 +277,7 @@ www.npttech.com
 
 # Riskified
 beacon.riskified.com
+c.riskified.com
 
 # Salesforce
 cdn.cquotient.com
