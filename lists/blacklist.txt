@@ -14,10 +14,11 @@
 # ---------------------------------------------------------------
 
 # Mozilla Canary domain
+use-application-dns.net
+
 # Note: The canary domain only applies to users who have DoH enabled as the default option.
 # It does not apply for users who have made the choice to turn on DoH by themselves.
 # Source: https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet
-use-application-dns.net
 
 # ===============================================================
 
@@ -88,6 +89,9 @@ ds-aksb-a.akamaihd.net
 # Amazon
 s.amazon-adsystem.com
 
+# AppMeasurement
+app-measurement.com
+
 # Apple
 metrics.icloud.com
 
@@ -108,6 +112,11 @@ api.chartbeat.com
 mab.chartbeat.com
 ping.chartbeat.com
 static.chartbeat.com
+
+# Clarivate / MarkMonitor
+combine.urbanairship.com
+device-api.urbanairship.com
+remote-data.urbanairship.com
 
 # Cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
