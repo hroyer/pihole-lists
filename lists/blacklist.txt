@@ -57,6 +57,10 @@ cloud.email.marks.com
 sephora-live.inside-graph.com
 sephora-track.inside-graph.com
 
+# The Bay / La Baie
+hudsonbaycompany.tt.omtrdc.net
+smetrics.thebay.com
+
 # SOCIAL MEDIA
 # ---------------------------------------------------------------
 
@@ -88,6 +92,7 @@ wwwimg.roku.com
 # Adobe
 assets.adobedtm.com
 dpm.demdex.net
+p.typekit.net
 
 # Akamai
 ds-aksb-a.akamaihd.net
@@ -224,9 +229,14 @@ z.moatads.com
 
 # Microsoft
 events.data.microsoft.com
+self.events.data.microsoft.com
 
 # MPulse
 s.go-mpulse.net
+s2.go-mpulse.net
+
+# NewRelic
+js-agent.newrelic.com
 
 # Piano
 api-v3.tinypass.com
@@ -240,6 +250,12 @@ ppjol.net
 sandbox.tinypass.com
 tag.aticdn.net
 www.npttech.com
+
+# Riskified
+beacon.riskified.com
+
+# Salesforce
+cdn.cquotient.com
 
 # Scorecard Research
 scorecardresearch.com
@@ -259,6 +275,10 @@ collector.superwall.me
 
 # TechLab
 p11.techlab-cdn.com
+
+# The Trade Desk
+adsrvr.org
+js.adsrvr.org
 
 # TikTok
 analytics.tiktok.com
