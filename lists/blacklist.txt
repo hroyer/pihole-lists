@@ -47,6 +47,10 @@ mwcm.nytimes.com
 click.email.marks.com
 cloud.email.marks.com
 
+# Sephora
+sephora-live.inside-graph.com
+sephora-track.inside-graph.com
+
 # SOCIAL MEDIA
 # ---------------------------------------------------------------
 
@@ -164,6 +168,10 @@ www.googletagmanager.com
 m32.media
 rdc.m32.media
 
+# Medallia
+kampyle.com
+udc-neb.kampyle.com
+
 # Moat
 moatads.com
 px.moatads.com
@@ -190,6 +198,10 @@ sc-static.net
 
 # TikTok
 analytics.tiktok.com
+
+# TransUnion / TruAudience / Signal
+s.btstatic.com
+s.thebrighttag.com
 
 # Twitter
 ads-twitter.com
