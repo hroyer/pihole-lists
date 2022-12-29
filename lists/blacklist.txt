@@ -1,4 +1,7 @@
-# Personal blacklist
+# Personal blacklist [Work in progress]
+# Lightweight list that blocks most ads and trackers on the website I most frequently use,
+# with a focus on Canadian, Québécois, and French language websites.
+# 
 # Last update: 2022/12/28
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
@@ -72,17 +75,82 @@ wwwimg.roku.com
 # ---------------------------------------------------------------
 
 # Adobe
-cc-api-data.adobe.io
-cc-api-preview.adobe.io
-cc-api-storage.adobe.io
+assets.adobedtm.com
+dpm.demdex.net
+
+# Akamai
+ds-aksb-a.akamaihd.net
+
+# Amazon
+s.amazon-adsystem.com
 
 # Apple
 metrics.icloud.com
 
+# Bing
+bat.bing.com
+
+# Casale Media / Index Exchange
+as.casalemedia.com
+as-sec.casalemedia.com
+casalemedia.com
+indexww.com
+js-sec.indexww.com
+js.indexww.com
+
+# Chartbeat
+adsapi.chartbeat.com
+api.chartbeat.com
+mab.chartbeat.com
+ping.chartbeat.com
+static.chartbeat.com
+
+# Conductrics
+api-cbc-v3.conductrics.com
+cdn-cbc-v3.conductrics.com
+cdn-v3.conductrics.com
+
+# Contextful
+ctxtfl.com
+run.cntxtfl.com
+
+# Doubleclick
+3243857.fls.doubleclick.net
+4394967.fls.doubleclick.net
+5290727.fls.doubleclick.net
+8168974.fls.doubleclick.net
+8272590.fls.doubleclick.net
+8397396.fls.doubleclick.net
+accounts.doubleclick.net
+ad-emea.doubleclick.net
+ad.doubleclick.net
+ads-bid.l.doubleclick.net
+adx.g.doubleclick.net
+bid.g.doubleclick.net
+cm.g.doubleclick.net
+dart.l.doubleclick.net
+doubleclick.net
+ff.doubleclick.net
+fls.doubleclick.net
+g.doubleclick.net
+g1.doubleclick.net
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+m.doubleclick.net
+partnerad.l.doubleclick.net
+pubads.g.doubleclick.net
+s0.doubleclick.net
+securepubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net
+stats.l.doubleclick.net
+survey.g.doubleclick.net
+
 # FreeSkreen
-static.freeskreen.com
-adsfreeskreen.com
+ads.freeskreen.com
 freeskreen.com
+static.freeskreen.com
 
 # Google
 google-analytics.com
@@ -96,6 +164,14 @@ www.googletagmanager.com
 m32.media
 rdc.m32.media
 
+# Moat
+moatads.com
+px.moatads.com
+z.moatads.com
+
+# MPulse
+s.go-mpulse.net
+
 # Piano
 api-v3.tinypass.com
 buy.tinypass.com
@@ -108,3 +184,16 @@ ppjol.net
 sandbox.tinypass.com
 tag.aticdn.net
 www.npttech.com
+
+# Snapchat
+sc-static.net
+
+# TikTok
+analytics.tiktok.com
+
+# Twitter
+ads-twitter.com
+static.ads-twitter.com
+
+# Visual Website Optimizer
+dev.visualwebsiteoptimizer.com
