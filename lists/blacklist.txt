@@ -2,7 +2,7 @@
 # Lightweight list that blocks most ads and trackers on the website I most frequently use,
 # with a focus on Canadian, Québécois, and French language websites.
 # 
-# Last update: 2022/12/28
+# Last update: 2022/12/29
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -32,14 +32,19 @@ diagnostics.huedatastore.com
 # MEDIA OUTLETS
 # ---------------------------------------------------------------
 
-analytics360.omerloclients.com
-
 # Le Devoir
 analytics.ledevoir.com
 
 # NYTimes Paywall
 meter-svc.nytimes.com
 mwcm.nytimes.com
+
+# Omerlo
+analytics360.omerloclients.com
+
+# Radio-Canada
+logstash-3.radio-canada.ca
+stats.radio-canada.ca
 
 # SHOPPING
 # ---------------------------------------------------------------
@@ -61,6 +66,7 @@ trk.pinterest.com
 # STREAMING
 # ---------------------------------------------------------------
 
+# Brightcove
 metrics.brightcove.com
 
 # Netflix
@@ -86,8 +92,14 @@ dpm.demdex.net
 # Akamai
 ds-aksb-a.akamaihd.net
 
+# Algolia
+insights.algolia.io
+
 # Amazon
 s.amazon-adsystem.com
+
+# Amplitude
+api2.amplitude.com
 
 # AppMeasurement
 app-measurement.com
@@ -97,6 +109,9 @@ metrics.icloud.com
 
 # Bing
 bat.bing.com
+
+# Braze
+sdk.iad-05.braze.com
 
 # Casale Media / Index Exchange
 as.casalemedia.com
@@ -163,6 +178,10 @@ stats.g.doubleclick.net
 stats.l.doubleclick.net
 survey.g.doubleclick.net
 
+# Firebase (Google)
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+
 # Forter
 cnd4.forter.com
 e309da9b9aaf.cdn4.forter.com
@@ -177,12 +196,18 @@ freeskreen.com
 static.freeskreen.com
 
 # Google
+ade.googlesyndication.com
 google-analytics.com
 googletagmanager.com
 imasdk.googleapis.com
+pagead2.googlesyndication.com
 ssl.google-analytics.com
+tpc.googlesyndication.com
 www.google-analytics.com
 www.googletagmanager.com
+
+# LiveChat
+secure.livechatinc.com
 
 # M32
 m32.media
@@ -196,6 +221,9 @@ udc-neb.kampyle.com
 moatads.com
 px.moatads.com
 z.moatads.com
+
+# Microsoft
+events.data.microsoft.com
 
 # MPulse
 s.go-mpulse.net
@@ -213,8 +241,21 @@ sandbox.tinypass.com
 tag.aticdn.net
 www.npttech.com
 
+# Scorecard Research
+scorecardresearch.com
+sb.scorecardresearch.com
+
+# Singular
+singular.net
+sdk-api-v1.singular.net
+
 # Snapchat
 sc-static.net
+
+# SuperWall (Paywall)
+api.superwall.me
+cdn.superwall.me
+collector.superwall.me
 
 # TechLab
 p11.techlab-cdn.com
