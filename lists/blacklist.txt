@@ -3,7 +3,7 @@
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
-# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/blacklist.txt
+# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/lists/blacklist.txt
 #
 # ===============================================================
 
@@ -28,6 +28,8 @@ diagnostics.huedatastore.com
 # MEDIA OUTLETS
 # ---------------------------------------------------------------
 
+analytics360.omerloclients.com
+
 # Le Devoir
 analytics.ledevoir.com
 
@@ -42,10 +44,19 @@ mwcm.nytimes.com
 click.email.marks.com
 cloud.email.marks.com
 
+# SOCIAL MEDIA
+# ---------------------------------------------------------------
+
+# Pinterest
+trk.pinterest.com
+
 # STREAMING
 # ---------------------------------------------------------------
 
 metrics.brightcove.com
+
+# Netflix
+ichnaea.netflix.com
 
 # Roku
 amoeba.web.roku.com
@@ -57,7 +68,7 @@ prod.mobile.roku.com
 scribe.logs.roku.com
 wwwimg.roku.com
 
-# MISC.
+# VARIOUS ADS AND TRACKERS
 # ---------------------------------------------------------------
 
 # Adobe
@@ -68,5 +79,32 @@ cc-api-storage.adobe.io
 # Apple
 metrics.icloud.com
 
-# Other
-f2.shared.global.fastly.net
+# FreeSkreen
+static.freeskreen.com
+adsfreeskreen.com
+freeskreen.com
+
+# Google
+google-analytics.com
+googletagmanager.com
+imasdk.googleapis.com
+ssl.google-analytics.com
+www.google-analytics.com
+www.googletagmanager.com
+
+# M32
+m32.media
+rdc.m32.media
+
+# Piano
+api-v3.tinypass.com
+buy.tinypass.com
+cdn.tinypass.com
+dashboard.tinypass.com
+experience.tinypass.com
+id.tinypass.com
+npttech.com
+ppjol.net
+sandbox.tinypass.com
+tag.aticdn.net
+www.npttech.com
