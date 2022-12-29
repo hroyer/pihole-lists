@@ -109,6 +109,9 @@ mab.chartbeat.com
 ping.chartbeat.com
 static.chartbeat.com
 
+# Cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
+
 # Conductrics
 api-cbc-v3.conductrics.com
 cdn-cbc-v3.conductrics.com
@@ -150,6 +153,14 @@ static.doubleclick.net
 stats.g.doubleclick.net
 stats.l.doubleclick.net
 survey.g.doubleclick.net
+
+# Forter
+cnd4.forter.com
+e309da9b9aaf.cdn4.forter.com
+9e97cf8b099a.cdn4.forter.com
+e44177b6b805.cdn4.forter.com
+fdfe4ed62699.cdn4.forter.com
+forter.com
 
 # FreeSkreen
 ads.freeskreen.com
@@ -195,6 +206,9 @@ www.npttech.com
 
 # Snapchat
 sc-static.net
+
+# TechLab
+p11.techlab-cdn.com
 
 # TikTok
 analytics.tiktok.com
