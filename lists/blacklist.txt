@@ -59,6 +59,9 @@ cloud.email.marks.com
 sephora-live.inside-graph.com
 sephora-track.inside-graph.com
 
+# Shopify
+monorail-edge.shopifysvc.com
+
 # The Bay / La Baie
 hudsonbaycompany.tt.omtrdc.net
 smetrics.thebay.com
@@ -67,6 +70,7 @@ smetrics.thebay.com
 # ---------------------------------------------------------------
 
 # Pinterest
+analytics.pinterest.com
 trk.pinterest.com
 
 # STREAMING
@@ -106,7 +110,13 @@ ds-aksb-a.akamaihd.net
 insights.algolia.io
 
 # Amazon
+c.amazon-adsystem.com
+device-metrics-us-2.amazon.com
+fls-na.amazon.com
+mads.amazon-adsystem.com
 s.amazon-adsystem.com
+unagi.amazon.ca
+unagi-na.amazon.com
 
 # Amplitude
 api2.amplitude.com
@@ -129,6 +139,10 @@ api2.branch.io
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
 sdk.iad-05.braze.com
+
+# Bugsnag
+notify.bugsnag.com
+sessions.bugsnag.com
 
 # Casale Media / Index Exchange
 as.casalemedia.com
@@ -226,6 +240,33 @@ www.googletagmanager.com
 # JW Player
 prd.jwpltx.com
 
+# Kochava
+akisinn.info
+akisinn.me
+akisinn.site
+dewrain.life
+dewrain.site
+dewrain.world
+kochava.com
+kvinit-prod.api.kochava.com
+int.akisinn.info
+int.akisinn.me
+int.akisinn.site
+int.dewrain.life
+int.dewrain.site
+int.dewrain.world
+int.kochava.com
+int.vaicore.site
+int.vaicore.store
+int.vaicore.xyz
+int.vlancaa.fun
+int.vlancaa.site
+vaicore.site
+vaicore.store
+vaicore.xyz
+vlancaa.fun
+vlancaa.site
+
 # LiveChat
 secure.livechatinc.com
 
@@ -282,6 +323,9 @@ c.riskified.com
 # Salesforce
 cdn.cquotient.com
 
+# Sift
+api3.siftscience.com
+
 # Scorecard Research
 scorecardresearch.com
 sb.scorecardresearch.com
@@ -318,3 +362,7 @@ static.ads-twitter.com
 
 # Visual Website Optimizer
 dev.visualwebsiteoptimizer.com
+
+# Waze
+ads-resources-legacy.waze.com
+advil.waze.com
