@@ -1,5 +1,5 @@
-# Personal whitelist
-# Last update: 2022/12/27
+# Personal whitelist [Work in progress]
+# Last update: 2022/12/29
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -11,12 +11,15 @@
 albert.apple.com
 appldnld.apple.com
 appleid.apple.com
+buy.itunes-apple.com.akadns.net
 captive.apple.com
 configuration.apple.com
 crl.apple.com
 deimos3.apple.com
 deviceenrollment.apple.com
 deviceservices-external.apple.com
+gateway.apple.com
+gateway.fe.apple-dns.net
 gdmf.apple.com
 gg.apple.com
 gnf-mdn.apple.com
@@ -25,6 +28,7 @@ gs.apple.com
 humb.apple.com
 identity.apple.com
 ig.apple.com
+inappcheck.itunes.apple.com
 iprofiles.apple.com
 itunes.apple.com
 lcdn-registration.apple.com
@@ -33,6 +37,7 @@ mediaservices.cdn-apple.com
 mediaservices.cdn-apple.com.akadns.net
 mediaservices.cdn-apple.com.edgesuite.net
 mesu.apple.com
+mesu.g.aaplimg.com
 ns.itunes.apple.com
 ocsp.apple.com # Apple Certificate Validation
 oscdn.apple.com
@@ -52,6 +57,7 @@ time.apple.com
 updates-http.cdn-apple.com
 updates.cdn-apple.com
 vpp.itunes.apple.com
+weather-data.apple.com
 xp.apple.com
 
 # Spotify
