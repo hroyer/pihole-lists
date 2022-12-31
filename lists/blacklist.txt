@@ -46,6 +46,9 @@ fpa-cdn.arstechnica.com
 fpa-events.arstechnica.com
 stats2.arstechnica.com
 
+# Bell Media
+bellmedia-ash.gscontxt.net
+
 # CondéNast
 capture.condenastdigital.com
 d1z2jf7jlzjs58.cloudfront.net
@@ -266,6 +269,9 @@ session-replay.browser-intake-us3-datadoghq.com
 # DataDome
 js.datadome.co
 
+# DialogInsight
+t.ofsys.com
+
 # Doubleclick
 3243857.fls.doubleclick.net
 4394967.fls.doubleclick.net
@@ -469,6 +475,9 @@ sb.scorecardresearch.com
 # SEOAB
 seoab.io
 
+# ShockingShip (DMCA Control)
+shockingship.com
+
 # Sift
 api3.siftscience.com
 
@@ -517,6 +526,9 @@ static.ads-twitter.com
 # Unity3D
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
+
+# Usabilia
+w.usabilla.com
 
 # Vercel
 vitals.vercel-insights.com
