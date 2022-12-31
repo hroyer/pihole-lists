@@ -1,13 +1,13 @@
-# Personal blacklist [Work in progress]
+# Personal blocklist [Work in progress]
 # Lightweight (as much as possible) list that blocks most ads and trackers
 # on the website I most frequently use, # with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2022/12/30
+# Last update: 2022/12/31
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
-# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/lists/blacklist.txt
+# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/lists/blocklist.txt
 #
 # ===============================================================
 
@@ -87,6 +87,9 @@ stats.radio-canada.ca
 # SHOPPING & SHIPPING
 # ---------------------------------------------------------------
 
+# Affirm
+tracker.affirm.ca
+
 # Canada Post / Postes Canada
 zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
 
@@ -103,6 +106,9 @@ noflake-aggregator-http.narvar.com
 # Sephora
 sephora-live.inside-graph.com
 sephora-track.inside-graph.com
+
+# Signifyd (Fraud protection)
+cdn-scripts.signifyd.com
 
 # Shopify
 monorail-edge.shopifysvc.com
@@ -328,6 +334,9 @@ ads.freeskreen.com
 freeskreen.com
 static.freeskreen.com
 
+# Gigya
+cdns.gigya.com
+
 # Google
 ade.googlesyndication.com
 google-analytics.com
@@ -352,6 +361,13 @@ cdn.onthe.io
 
 # JW Player
 prd.jwpltx.com
+
+# Kampyle
+nebula-cdn.kampyle.com
+udc-neb.kampyle.com
+
+# Klaviyo
+static-tracking.klaviyo.com
 
 # Kochava
 akisinn.info
@@ -454,8 +470,14 @@ sandbox.tinypass.com
 tag.aticdn.net
 www.npttech.com
 
+# PixelPop
+app.pixelpop.co
+
 # Pressboard
 adserver.pressboard.ca
+
+# Refersion
+cdn.refersion.com
 
 # Riskified
 beacon.riskified.com
