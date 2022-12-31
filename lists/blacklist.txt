@@ -126,8 +126,7 @@ wwwimg.roku.com
 
 # Sportsnet
 fab45a0b987ef2041eb0fc8e9a05e1a5dc4ccc8f.cws.conviva.com
-mobile-statsv2.sportsnet.ca
-sn-personalization-prod.sportsnet.ca #TESTING
+oms1.sportsnet.ca
 
 # VARIOUS ADS AND TRACKERS
 # ---------------------------------------------------------------
