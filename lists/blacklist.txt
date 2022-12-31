@@ -215,6 +215,7 @@ run.cntxtfl.com
 
 # DataDog
 www.datadoghq-browser-agent.com
+session-replay.browser-intake-us3-datadoghq.com
 
 # DataDome
 js.datadome.co
