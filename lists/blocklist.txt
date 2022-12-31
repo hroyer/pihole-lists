@@ -30,14 +30,29 @@ use-application-dns.net
 # Bending Spoons
 spidersense.bendingspoons.com
 
+# Desjardins
+wup-ac77ffef.us.v2.we-stats.com
+wup-sec.desjardins.com
+znaad7u8yzaqhmmxx-desjardins.siteintercept.qualtrics.com
+
+# DoorDash
+o17585.ingest.sentry.io
+
 # Readdle (Scanner Pro / Documents)
 usage.readdle.com
 
 # Shazam
 beacon.shazam.com
 
+# Wealthsimple
+7279653.collect.igodigital.com
+o1057616.ingest.sentry.io
+
 # IOT
 # ---------------------------------------------------------------
+
+# Belkin WeMo
+d2f1bad6.api.splkmobile.com
 
 # Philips hue
 diag.meethue.com
@@ -136,7 +151,7 @@ mjca-yijws.global.ssl.fastly.net
 analytics.pinterest.com
 trk.pinterest.com
 
-# STREAMING
+# STREAMING AND GAMING
 # ---------------------------------------------------------------
 
 # Amazon Prime Video
@@ -154,6 +169,10 @@ sanalytics.disneyplus.com
 
 # Netflix
 ichnaea.netflix.com
+
+# Playstation
+smetrics.aem.playstation.com
+telemetry.api.playstation.com
 
 # Pluto.tv
 sp.pluto.tv
@@ -187,7 +206,7 @@ a-fds.youborafds01.com
 
 # Adobe
 assets.adobedtm.com
-dpm.demdex.net
+c00.adobe.com
 p.typekit.net
 
 # Adjust
@@ -208,11 +227,14 @@ ds-aksb-a.akamaihd.net
 insights.algolia.io
 
 # Amazon
+aan.amazon.com
 aax.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
 c.amazon-adsystem.com
 device-metrics-us-2.amazon.com
 fls-na.amazon.com
 mads.amazon-adsystem.com
+pinpoint.us-east-1.amazonaws.com
 s.amazon-adsystem.com
 unagi.amazon.ca
 unagi-na.amazon.com
@@ -242,7 +264,11 @@ assets.a-mo.net
 
 # AppsFlyer
 cdn-settings.appsflyersdk.com
+inapps.appsflyer.com
 launches.appsflyer.com
+
+# Apptimize
+md-i-c.apptimize.com
 
 # Bing
 bat.bing.com
@@ -260,6 +286,9 @@ sdk.iad-05.braze.com
 
 # Browser-Update
 browser-update.org
+
+# Bugly
+ios.bugly.qq.com
 
 # Bugsnag
 notify.bugsnag.com
@@ -309,6 +338,9 @@ session-replay.browser-intake-us3-datadoghq.com
 
 # DataDome
 js.datadome.co
+
+# DemDex (Adobe)
+dpm.demdex.net
 
 # DialogInsight
 t.ofsys.com
@@ -374,6 +406,7 @@ cdns.gigya.com
 
 # Google
 ade.googlesyndication.com
+fundingchoicesmessages.google.com
 google-analytics.com
 googletagmanager.com
 imasdk.googleapis.com
@@ -399,6 +432,9 @@ js.hsleadflows.net
 
 # IO
 cdn.onthe.io
+
+# Iterable
+api.iterable.com
 
 # JW Player
 prd.jwpltx.com
@@ -437,6 +473,9 @@ vaicore.xyz
 vlancaa.fun
 vlancaa.site
 
+# LaunchDarkly
+mobile.launchdarkly.com
+
 # LiveChat
 secure.livechatinc.com
 
@@ -447,6 +486,9 @@ profile.localytics.com
 # M32
 m32.media
 rdc.m32.media
+
+# Magnite (Rubicon Project)
+prebid-server.rubiconproject.com
 
 # Medallia
 kampyle.com
@@ -495,6 +537,9 @@ cdn.optimizely.com
 # Parse.ly
 cdn.parsely.com
 
+# Pendo
+data.pendo.io
+
 # Permutive
 api.permutive.app
 cdn.permutive.app
@@ -538,6 +583,9 @@ sb.scorecardresearch.com
 
 # Segment
 cdn-settings.segment.com
+
+# Sentry
+sentry.io
 
 # SEOAB
 seoab.io
