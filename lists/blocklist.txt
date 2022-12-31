@@ -134,9 +134,6 @@ sephora-track.inside-graph.com
 # Signifyd (Fraud protection)
 cdn-scripts.signifyd.com
 
-# Shopify
-monorail-edge.shopifysvc.com
-
 # The Bay / La Baie
 hudsonbaycompany.tt.omtrdc.net
 smetrics.thebay.com
