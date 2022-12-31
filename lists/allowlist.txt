@@ -1,5 +1,5 @@
-# Personal whitelist [Work in progress]
-# Last update: 2022/12/29
+# Personal allowlist/safelist [Work in progress]
+# Last update: 2022/12/31
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
