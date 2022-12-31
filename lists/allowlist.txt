@@ -3,7 +3,7 @@
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
-# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/whitelist.txt
+# Source: https://raw.githubusercontent.com/hroyer/pihole-lists/master/allowlist.txt
 #
 # ===============================================================
 
