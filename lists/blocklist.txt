@@ -1,6 +1,6 @@
 # Personal blocklist [Work in progress]
 # Lightweight (as much as possible) list that blocks most ads and trackers
-# on the website I most frequently use, # with a focus on 
+# on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
 # Last update: 2022/12/31
@@ -27,8 +27,14 @@ use-application-dns.net
 # APPS
 # ---------------------------------------------------------------
 
+# Bending Spoons
+spidersense.bendingspoons.com
+
 # Readdle (Scanner Pro / Documents)
 usage.readdle.com
+
+# Shazam
+beacon.shazam.com
 
 # IOT
 # ---------------------------------------------------------------
@@ -48,6 +54,9 @@ stats2.arstechnica.com
 
 # Bell Media
 bellmedia-ash.gscontxt.net
+
+# CBC
+api-cbc-v3.conductrics.com
 
 # CondéNast
 capture.condenastdigital.com
@@ -146,6 +155,9 @@ sanalytics.disneyplus.com
 # Netflix
 ichnaea.netflix.com
 
+# Pluto.tv
+sp.pluto.tv
+
 # Rogers
 adutil-creatives.rogersdigitalmedia.com
 rogers.demdex.net
@@ -164,6 +176,12 @@ wwwimg.roku.com
 fab45a0b987ef2041eb0fc8e9a05e1a5dc4ccc8f.cws.conviva.com
 oms1.sportsnet.ca
 
+# TuneIn
+reports.radiotime.com
+
+# Youbora / NPAW (Video Analytics)
+a-fds.youborafds01.com
+
 # VARIOUS ADS AND TRACKERS
 # ---------------------------------------------------------------
 
@@ -171,6 +189,14 @@ oms1.sportsnet.ca
 assets.adobedtm.com
 dpm.demdex.net
 p.typekit.net
+
+# Adjust
+app.adjust.world
+app.adjust.net.in
+app.adjust.com
+
+# AdsWizz
+zc.adswizz.com
 
 # AdThrive
 ads.adthrive.com
@@ -182,6 +208,7 @@ ds-aksb-a.akamaihd.net
 insights.algolia.io
 
 # Amazon
+aax.amazon-adsystem.com
 c.amazon-adsystem.com
 device-metrics-us-2.amazon.com
 fls-na.amazon.com
@@ -200,6 +227,11 @@ js.appboycdn.com
 api-adservices.apple.com
 ca.iadsdk.apple.com
 metrics.icloud.com
+
+# AppLovin
+d.applovin.com
+ms.applvn.com
+rt.applovin.com
 
 # AppMeasurement
 app-measurement.com
@@ -225,6 +257,9 @@ api2.branch.io
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
 sdk.iad-05.braze.com
+
+# Browser-Update
+browser-update.org
 
 # Bugsnag
 notify.bugsnag.com
@@ -354,7 +389,13 @@ www.googletagservices.com
 tglads.herokuapp.com
 
 # HotJar
+script.hotjar.com
 static.hotjar.com
+
+# HubSpot
+js.hs-analytics.net
+js.hs-banner.com
+js.hsleadflows.net
 
 # IO
 cdn.onthe.io
@@ -420,6 +461,7 @@ px.moatads.com
 z.moatads.com
 
 # Microsoft
+dc.services.visualstudio.com
 events.data.microsoft.com
 self.events.data.microsoft.com
 
@@ -493,6 +535,9 @@ cdn.cquotient.com
 # Scorecard Research
 scorecardresearch.com
 sb.scorecardresearch.com
+
+# Segment
+cdn-settings.segment.com
 
 # SEOAB
 seoab.io
