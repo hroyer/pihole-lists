@@ -40,6 +40,16 @@ diagnostics.huedatastore.com
 # MEDIA OUTLETS
 # ---------------------------------------------------------------
 
+# ArsTechnica
+fpa-api.arstechnica.com
+fpa-cdn.arstechnica.com
+fpa-events.arstechnica.com
+stats2.arstechnica.com
+
+# CondeNast
+capture.condenastdigital.com
+pixel.condenastdigital.com
+
 # La Presse
 ca-lapresse-main.collector.snplow.net
 fsm.lapresse.ca
@@ -72,6 +82,9 @@ stats.radio-canada.ca
 # Mark's / L'Équipeur
 click.email.marks.com
 cloud.email.marks.com
+
+# Narvar
+noflake-aggregator-http.narvar.com
 
 # Sephora
 sephora-live.inside-graph.com
@@ -154,13 +167,17 @@ unagi-na.amazon.com
 # Amplitude
 api2.amplitude.com
 
-# AppMeasurement
-app-measurement.com
-
 # Apple
 api-adservices.apple.com
 ca.iadsdk.apple.com
 metrics.icloud.com
+
+# AppMeasurement
+app-measurement.com
+
+# AppMonet
+a-mo.net
+assets.a-mo.net
 
 # AppsFlyer
 cdn-settings.appsflyersdk.com
@@ -203,6 +220,9 @@ remote-data.urbanairship.com
 
 # Cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+
+# Comscore
+segment-data.zqtk.net
 
 # Conductrics
 api-cbc-v3.conductrics.com
@@ -253,6 +273,9 @@ stats.g.doubleclick.net
 stats.l.doubleclick.net
 survey.g.doubleclick.net
 
+# DoubleVerify
+pub.doubleverify.com
+
 # Firebase (Google)
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
@@ -282,7 +305,9 @@ pagead2.googlesyndication.com
 ssl.google-analytics.com
 tpc.googlesyndication.com
 www.google-analytics.com
+www.googleoptimize.com
 www.googletagmanager.com
+www.googletagservices.com
 
 # Heroku
 tglads.herokuapp.com
@@ -332,6 +357,9 @@ rdc.m32.media
 kampyle.com
 udc-neb.kampyle.com
 
+# MediaVoice (Polar)
+cdn.mediavoice.com
+
 # Moat
 moatads.com
 px.moatads.com
@@ -352,12 +380,22 @@ identity.mparticle.com
 s.go-mpulse.net
 s2.go-mpulse.net
 
+# Narrativ
+events.release.narrativ.com
+static.narrativ.com
+
 # NewRelic
 js-agent.newrelic.com
 mobile-collector.newrelic.com
 
+# OneSignal
+cdn.onesignal.com
+
 # Optimizely
 cdn.optimizely.com
+
+# Parse.ly
+cdn.parsely.com
 
 # Permutive
 api.permutive.app
@@ -376,9 +414,16 @@ sandbox.tinypass.com
 tag.aticdn.net
 www.npttech.com
 
+# Pressboard
+adserver.pressboard.ca
+
 # Riskified
 beacon.riskified.com
 c.riskified.com
+
+# Sailthru
+ak.sail-horizon.com
+cdn.sail-horizon.com
 
 # Salesforce
 cdn.cquotient.com
@@ -390,12 +435,18 @@ api3.siftscience.com
 scorecardresearch.com
 sb.scorecardresearch.com
 
+# Skimlinks
+s.skimresources.com
+
 # Singular
 singular.net
 sdk-api-v1.singular.net
 
 # Snapchat
 sc-static.net
+
+# SparkPost
+post.spmailtechno.com
 
 # SuperWall (Paywall)
 api.superwall.me
@@ -424,12 +475,21 @@ static.ads-twitter.com
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
 
+# Vercel
+vitals.vercel-insights.com
+
+# VigLink
+cdn.viglink.com
+
 # Visual Website Optimizer
 dev.visualwebsiteoptimizer.com
 
 # Waze
 ads-resources-legacy.waze.com
 advil.waze.com
+
+# WordPress
+stats.wp.com
 
 # Yotpo
 p.yotpo.com
