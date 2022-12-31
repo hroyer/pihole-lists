@@ -46,8 +46,10 @@ fpa-cdn.arstechnica.com
 fpa-events.arstechnica.com
 stats2.arstechnica.com
 
-# CondeNast
+# CondéNast
 capture.condenastdigital.com
+d1z2jf7jlzjs58.cloudfront.net
+martech.condenastdigital.com
 pixel.condenastdigital.com
 
 # La Presse
@@ -71,13 +73,22 @@ mwcm.nytimes.com
 # Omerlo
 analytics360.omerloclients.com
 
+# Penske Media Corporation
+iabusprivacy.pmc.com
+
 # Radio-Canada
 logstash-3.radio-canada.ca
 radiocanada.sc.omtrdc.net
 stats.radio-canada.ca
 
-# SHOPPING
+# SHOPPING & SHIPPING
 # ---------------------------------------------------------------
+
+# Canada Post / Postes Canada
+zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
+
+# FedEx
+smetrics.fedex.com
 
 # Mark's / L'Équipeur
 click.email.marks.com
@@ -96,6 +107,9 @@ monorail-edge.shopifysvc.com
 # The Bay / La Baie
 hudsonbaycompany.tt.omtrdc.net
 smetrics.thebay.com
+
+# Misc.
+mjca-yijws.global.ssl.fastly.net
 
 # SOCIAL MEDIA
 # ---------------------------------------------------------------
@@ -149,6 +163,9 @@ assets.adobedtm.com
 dpm.demdex.net
 p.typekit.net
 
+# AdThrive
+ads.adthrive.com
+
 # Akamai
 ds-aksb-a.akamaihd.net
 
@@ -166,6 +183,9 @@ unagi-na.amazon.com
 
 # Amplitude
 api2.amplitude.com
+
+# AppBoy
+js.appboycdn.com
 
 # Apple
 api-adservices.apple.com
@@ -185,6 +205,9 @@ launches.appsflyer.com
 
 # Bing
 bat.bing.com
+
+# Blogher
+ads.blogherads.com
 
 # Branch
 api2.branch.io
@@ -228,6 +251,9 @@ segment-data.zqtk.net
 api-cbc-v3.conductrics.com
 cdn-cbc-v3.conductrics.com
 cdn-v3.conductrics.com
+
+# Confiant
+confiant-integrations.global.ssl.fastly.net
 
 # Contextful
 ctxtfl.com
@@ -312,6 +338,12 @@ www.googletagservices.com
 # Heroku
 tglads.herokuapp.com
 
+# HotJar
+static.hotjar.com
+
+# IO
+cdn.onthe.io
+
 # JW Player
 prd.jwpltx.com
 
@@ -375,6 +407,7 @@ api.mixpanel.com
 # mParticle
 config2.mparticle.com
 identity.mparticle.com
+jssdks.mparticle.com
 
 # MPulse
 s.go-mpulse.net
@@ -386,6 +419,7 @@ static.narrativ.com
 
 # NewRelic
 js-agent.newrelic.com
+log-api.newrelic.com
 mobile-collector.newrelic.com
 
 # OneSignal
@@ -428,19 +462,22 @@ cdn.sail-horizon.com
 # Salesforce
 cdn.cquotient.com
 
-# Sift
-api3.siftscience.com
-
 # Scorecard Research
 scorecardresearch.com
 sb.scorecardresearch.com
 
-# Skimlinks
-s.skimresources.com
+# SEOAB
+seoab.io
+
+# Sift
+api3.siftscience.com
 
 # Singular
 singular.net
 sdk-api-v1.singular.net
+
+# Skimlinks
+s.skimresources.com
 
 # Snapchat
 sc-static.net
@@ -452,6 +489,12 @@ post.spmailtechno.com
 api.superwall.me
 cdn.superwall.me
 collector.superwall.me
+
+# Swiftype
+cc.swiftype.com
+
+# Tealium
+tags.tiqcdn.com
 
 # TechLab
 p11.techlab-cdn.com
