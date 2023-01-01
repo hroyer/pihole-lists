@@ -51,6 +51,9 @@ o1057616.ingest.sentry.io
 # IOT
 # ---------------------------------------------------------------
 
+# August
+logger.august.com
+
 # Belkin WeMo
 d2f1bad6.api.splkmobile.com
 
@@ -188,6 +191,9 @@ prod.mobile.roku.com
 scribe.logs.roku.com
 wwwimg.roku.com
 
+# Rovio
+ads-cloud.rovio.com
+
 # Sportsnet
 fab45a0b987ef2041eb0fc8e9a05e1a5dc4ccc8f.cws.conviva.com
 oms1.sportsnet.ca
@@ -312,6 +318,10 @@ combine.urbanairship.com
 device-api.urbanairship.com
 remote-data.urbanairship.com
 
+# Clevertap
+clevertap-prod.com
+eu1.clevertap-prod.com
+
 # Cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 
@@ -401,6 +411,9 @@ static.freeskreen.com
 
 # Gigya
 cdns.gigya.com
+
+# GitHub
+collector.github.com
 
 # Google
 ade.googlesyndication.com
