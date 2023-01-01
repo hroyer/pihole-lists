@@ -173,6 +173,12 @@ sanalytics.disneyplus.com
 # Netflix
 ichnaea.netflix.com
 
+# Netflix Games
+collect8304533781499.deltadna.net
+collect8347478081509.deltadna.net
+engage8304533781499.deltadna.net
+engage8347478081509.deltadna.net
+
 # Playstation
 smetrics.aem.playstation.com
 telemetry.api.playstation.com
@@ -349,6 +355,10 @@ session-replay.browser-intake-us3-datadoghq.com
 
 # DataDome
 js.datadome.co
+
+# DeltaDNA
+balanced-collect.deltadna.net
+balanced-engage.deltadna.net
 
 # DemDex (Adobe)
 dpm.demdex.net
