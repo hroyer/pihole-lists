@@ -30,6 +30,9 @@ use-application-dns.net
 # Bending Spoons
 spidersense.bendingspoons.com
 
+# Ça va où? (Recyc-Québec)
+o944473.ingest.sentry.io
+
 # Desjardins
 wup-ac77ffef.us.v2.we-stats.com
 wup-sec.desjardins.com
