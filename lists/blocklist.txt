@@ -246,6 +246,7 @@ js.appboycdn.com
 api-adservices.apple.com
 ca.iadsdk.apple.com
 metrics.icloud.com
+stats.gc.apple.com
 
 # AppLovin
 d.applovin.com
