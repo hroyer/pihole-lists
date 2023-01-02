@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2022/12/31
+# Last update: 2023/01/02
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -40,6 +40,12 @@ znaad7u8yzaqhmmxx-desjardins.siteintercept.qualtrics.com
 
 # DoorDash
 o17585.ingest.sentry.io
+
+# Headspace
+o28532.ingest.sentry.io
+
+# Kraken
+o552333.ingest.sentry.io
 
 # Readdle (Scanner Pro / Documents)
 usage.readdle.com
@@ -123,6 +129,9 @@ tracker.affirm.ca
 # Canada Post / Postes Canada
 zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
 
+# eBay
+mobiletelemetry.ebay.com
+
 # FedEx
 smetrics.fedex.com
 
@@ -132,6 +141,9 @@ cloud.email.marks.com
 
 # Narvar
 noflake-aggregator-http.narvar.com
+
+# PayPal
+t.paypal.com
 
 # Sephora
 sephora-live.inside-graph.com
@@ -164,6 +176,7 @@ trk.pinterest.com
 alb.reddit.com
 
 # Snapchat
+api.snapkit.com
 sc-static.net
 
 # TikTok
@@ -198,8 +211,10 @@ ichnaea.netflix.com
 # Netflix Games
 collect8304533781499.deltadna.net
 collect8347478081509.deltadna.net
+collect9346055881518.deltadna.net
 engage8304533781499.deltadna.net
 engage8347478081509.deltadna.net
+engage9346055881518.deltadna.net
 
 # Playstation
 smetrics.aem.playstation.com
@@ -217,6 +232,7 @@ amoeba.web.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
 cloudservices.roku.com
+display.ravm.tv
 p.ads.roku.com
 prod.mobile.roku.com
 scribe.logs.roku.com
@@ -297,11 +313,18 @@ app-measurement.com
 a-mo.net
 assets.a-mo.net
 
+# AppNexus
+ib.adnxs.com
+prebid.adnxs.com
+
 # AppsFlyer
 cdn-settings.appsflyersdk.com
 inapps.appsflyer.com
 launches.appsflyer.com
 skadsdk.appsflyer.com
+
+# Apptentive
+api.apptentive.com
 
 # Apptimize
 md-i-c.apptimize.com
@@ -372,6 +395,9 @@ confiant-integrations.global.ssl.fastly.net
 ctxtfl.com
 run.cntxtfl.com
 
+# ControlD
+stats.controld.com
+
 # DataDog
 www.datadoghq-browser-agent.com
 session-replay.browser-intake-us3-datadoghq.com
@@ -425,6 +451,10 @@ survey.g.doubleclick.net
 # DoubleVerify
 pub.doubleverify.com
 
+#EMB-API
+config.emb-api.com
+data.emb-api.com
+
 # Firebase (Google)
 firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
@@ -477,6 +507,9 @@ js.hs-analytics.net
 js.hs-banner.com
 js.hsleadflows.net
 
+# Impact Radius
+d.impactradius-event.com
+
 # IO
 cdn.onthe.io
 
@@ -523,6 +556,9 @@ vlancaa.site
 # LaunchDarkly
 mobile.launchdarkly.com
 
+# LexisNexis Risk (ThreatMetrix)
+h-sdk.online-metrix.net
+
 # LiveChat
 secure.livechatinc.com
 
@@ -544,11 +580,6 @@ udc-neb.kampyle.com
 # MediaVoice (Polar)
 cdn.mediavoice.com
 
-# Moat
-moatads.com
-px.moatads.com
-z.moatads.com
-
 # Microsoft
 dc.services.visualstudio.com
 events.data.microsoft.com
@@ -556,6 +587,17 @@ self.events.data.microsoft.com
 
 # Mixpanel
 api.mixpanel.com
+
+# Moat
+moatads.com
+px.moatads.com
+z.moatads.com
+
+# Momentive
+sdk.out.usbla.net
+
+# Mozilla
+incoming.telemetry.mozilla.org
 
 # mParticle
 config2.mparticle.com
@@ -607,8 +649,14 @@ www.npttech.com
 # PixelPop
 app.pixelpop.co
 
+# Presage
+pad-v3.presage.io
+
 # Pressboard
 adserver.pressboard.ca
+
+# PubNative
+pubnative.info
 
 # Refersion
 cdn.refersion.com
@@ -616,6 +664,9 @@ cdn.refersion.com
 # Riskified
 beacon.riskified.com
 c.riskified.com
+
+# Rollbar
+cdn.rollbar.com
 
 # Sailthru
 ak.sail-horizon.com
@@ -653,6 +704,9 @@ s.skimresources.com
 # SparkPost
 post.spmailtechno.com
 
+# Statsig
+api.statsig.com
+
 # SuperWall (Paywall)
 api.superwall.me
 cdn.superwall.me
@@ -667,6 +721,9 @@ tags.tiqcdn.com
 # TechLab
 p11.techlab-cdn.com
 
+# TelemetryDeck
+nom.telemetrydeck.com
+
 # The Trade Desk
 adsrvr.org
 js.adsrvr.org
@@ -675,9 +732,13 @@ js.adsrvr.org
 s.btstatic.com
 s.thebrighttag.com
 
+# Turbulent
+sentry.turbulent.ca
+
 # Unity3D
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
+ecommerce.iap.unity3d.com
 
 # Usabilia
 w.usabilla.com
@@ -699,6 +760,9 @@ advil.waze.com
 stats.wp.com
 
 # Yahoo
+analytics.query.yahoo.com
+m.yap.yahoo.com
+pr.comet.yahoo.com
 sp.analytics.yahoo.com
 
 # Yotpo
