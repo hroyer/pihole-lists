@@ -1,5 +1,5 @@
 # Twitter blocklist
-# Last update: 2022/12/27
+# Last update: 2023/01/02
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -9,6 +9,7 @@
 
 abs-0.twimg.com
 abs.twimg.com
+ads-twitter.com
 api.twitter.com
 blog.twitter.co
 cdn.cms-twdigitalassets.com
@@ -21,6 +22,7 @@ mobile.twitter.com
 mobile.twitter.com.au
 pbs.twimg.com
 platform.twitter.com
+static.ads-twitter.com
 syndication.twitter.com
 twitter.co
 twitter.co.uk
