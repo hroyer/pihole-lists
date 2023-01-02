@@ -160,6 +160,19 @@ o64374.ingest.sentry.io
 analytics.pinterest.com
 trk.pinterest.com
 
+# Reddit
+alb.reddit.com
+
+# Snapchat
+sc-static.net
+
+# TikTok
+analytics.tiktok.com
+
+# Twitter
+ads-twitter.com
+static.ads-twitter.com
+
 # STREAMING AND GAMING
 # ---------------------------------------------------------------
 
@@ -175,6 +188,9 @@ bellmedia.sc.omtrdc.net
 # Disney+
 disney.demdex.net
 sanalytics.disneyplus.com
+
+# iSpot
+pt.ispot.tv
 
 # Netflix
 ichnaea.netflix.com
@@ -634,9 +650,6 @@ sdk-api-v1.singular.net
 # Skimlinks
 s.skimresources.com
 
-# Snapchat
-sc-static.net
-
 # SparkPost
 post.spmailtechno.com
 
@@ -658,16 +671,9 @@ p11.techlab-cdn.com
 adsrvr.org
 js.adsrvr.org
 
-# TikTok
-analytics.tiktok.com
-
 # TransUnion / TruAudience / Signal
 s.btstatic.com
 s.thebrighttag.com
-
-# Twitter
-ads-twitter.com
-static.ads-twitter.com
 
 # Unity3D
 cdp.cloud.unity3d.com
@@ -691,6 +697,9 @@ advil.waze.com
 
 # WordPress
 stats.wp.com
+
+# Yahoo
+sp.analytics.yahoo.com
 
 # Yotpo
 p.yotpo.com
