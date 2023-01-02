@@ -150,6 +150,12 @@ mjca-yijws.global.ssl.fastly.net
 # SOCIAL MEDIA
 # ---------------------------------------------------------------
 
+# Circle
+o1295132.ingest.sentry.io
+
+# Discord
+o64374.ingest.sentry.io
+
 # Pinterest
 analytics.pinterest.com
 trk.pinterest.com
@@ -279,6 +285,7 @@ assets.a-mo.net
 cdn-settings.appsflyersdk.com
 inapps.appsflyer.com
 launches.appsflyer.com
+skadsdk.appsflyer.com
 
 # Apptimize
 md-i-c.apptimize.com
