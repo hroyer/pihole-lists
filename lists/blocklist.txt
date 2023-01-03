@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2023/01/02
+# Last update: 2023/01/03
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -98,6 +98,9 @@ fsm.lapresse.ca
 # Le Devoir
 analytics.ledevoir.com
 
+# MétéoMédia
+engagefront.meteomedia.com
+
 # MLB
 268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com
 mlb.com.ssl.sc.omtrdc.net
@@ -120,11 +123,18 @@ logstash-3.radio-canada.ca
 radiocanada.sc.omtrdc.net
 stats.radio-canada.ca
 
+# The Weather Network
+engagefront.theweathernetwork.com
+
 # SHOPPING & SHIPPING
 # ---------------------------------------------------------------
 
 # Affirm
 tracker.affirm.ca
+
+# Amazon
+unagi.amazon.ca
+unagi.amazon.com
 
 # Canada Post / Postes Canada
 zn0xleir6swszany9-canadapostdigital.siteintercept.qualtrics.com
@@ -156,6 +166,9 @@ cdn-scripts.signifyd.com
 hudsonbaycompany.tt.omtrdc.net
 smetrics.thebay.com
 
+# Walmart
+beacon.walmart.ca
+
 # Misc.
 mjca-yijws.global.ssl.fastly.net
 
@@ -170,6 +183,7 @@ o64374.ingest.sentry.io
 
 # Pinterest
 analytics.pinterest.com
+ct.pinterest.com
 trk.pinterest.com
 
 # Reddit
@@ -269,6 +283,10 @@ zc.adswizz.com
 
 # AdThrive
 ads.adthrive.com
+
+# AGKN
+agkn.com
+d.agkn.com
 
 # Akamai
 ds-aksb-a.akamaihd.net
@@ -391,12 +409,22 @@ cdn-v3.conductrics.com
 # Confiant
 confiant-integrations.global.ssl.fastly.net
 
+# Contentsquare
+t.contentsquare.net
+
 # Contextful
 ctxtfl.com
 run.cntxtfl.com
 
 # ControlD
 stats.controld.com
+
+# Criteo
+b.da.us.criteo.com
+criteo.com
+criteo.net
+d.us.criteo.com
+static.criteo.net
 
 # DataDog
 www.datadoghq-browser-agent.com
@@ -410,6 +438,7 @@ balanced-collect.deltadna.net
 balanced-engage.deltadna.net
 
 # DemDex (Adobe)
+adobedc.demdex.net
 dpm.demdex.net
 
 # DialogInsight
@@ -483,6 +512,7 @@ collector.github.com
 
 # Google
 ade.googlesyndication.com
+adservice.google.ca
 fundingchoicesmessages.google.com
 google-analytics.com
 googletagmanager.com
@@ -714,6 +744,14 @@ collector.superwall.me
 
 # Swiftype
 cc.swiftype.com
+
+# Taboola
+cdn.taboola.com
+taboola.com
+
+# Tapad
+tapad.com
+tapestry.tapad.com
 
 # Tealium
 tags.tiqcdn.com
