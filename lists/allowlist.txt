@@ -60,9 +60,6 @@ vpp.itunes.apple.com
 weather-data.apple.com
 xp.apple.com
 
-# Ooni App
-o1085837.ingest.sentry.io
-
 # Spotify
 apresolve.spotify.com
 spclient.wg.spotify.com
