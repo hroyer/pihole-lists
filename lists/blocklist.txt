@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2023/01/03
+# Last update: 2023/01/12
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -56,6 +56,10 @@ beacon.shazam.com
 # Wealthsimple
 7279653.collect.igodigital.com
 o1057616.ingest.sentry.io
+
+# FRAUD / SCAM
+# ---------------------------------------------------------------
+whats-ip.com
 
 # IOT
 # ---------------------------------------------------------------
