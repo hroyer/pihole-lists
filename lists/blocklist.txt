@@ -219,6 +219,17 @@ bellmedia.sc.omtrdc.net
 # Disney+
 disney.demdex.net
 sanalytics.disneyplus.com
+us-east-1.ads.digital.disneyadvertising.com
+us-east-2.ads.digital.disneyadvertising.com
+us-west-1.ads.digital.disneyadvertising.com
+us-west-2.ads.digital.disneyadvertising.com
+diproton-ads-prod-us-east-2.hulu.com.akadns.net
+
+# Easybrain
+consent.easybrain.com
+cross-promo-provider.easybrain.com
+ets.easybrain.com
+s3-analytics-events.easybrain.com
 
 # iSpot
 pt.ispot.tv
@@ -237,6 +248,7 @@ engage9346055881518.deltadna.net
 # Playstation
 smetrics.aem.playstation.com
 telemetry.api.playstation.com
+telemetry-console.api.playstation.com-v2.edgekey.net
 
 # Pluto.tv
 sp.pluto.tv
@@ -263,6 +275,9 @@ ads-cloud.rovio.com
 fab45a0b987ef2041eb0fc8e9a05e1a5dc4ccc8f.cws.conviva.com
 oms1.sportsnet.ca
 
+# ICI Tou.tv
+stats.tou.tv
+
 # TuneIn
 reports.radiotime.com
 
@@ -281,6 +296,7 @@ p.typekit.net
 app.adjust.world
 app.adjust.net.in
 app.adjust.com
+view.adjust.com
 
 # AdsWizz
 zc.adswizz.com
@@ -325,7 +341,10 @@ stats.gc.apple.com
 
 # AppLovin
 d.applovin.com
+d.applvn.com
 ms.applvn.com
+ms4.applovin.com
+prod-a4.applovin.com
 rt.applovin.com
 
 # AppMeasurement
@@ -350,6 +369,10 @@ api.apptentive.com
 
 # Apptimize
 md-i-c.apptimize.com
+
+# BidMachine
+api-us.bidmachine.io
+api-eu.bidmachine.io
 
 # Bing
 bat.bing.com
@@ -425,9 +448,11 @@ stats.controld.com
 
 # Criteo
 b.da.us.criteo.com
+bidder.criteo.com
 criteo.com
 criteo.net
 d.us.criteo.com
+gum.criteo.com
 static.criteo.net
 
 # DataDog
@@ -484,7 +509,7 @@ survey.g.doubleclick.net
 # DoubleVerify
 pub.doubleverify.com
 
-#EMB-API
+# EMB-API
 config.emb-api.com
 data.emb-api.com
 
@@ -543,6 +568,9 @@ js.hsleadflows.net
 
 # Impact Radius
 d.impactradius-event.com
+
+# InMobi
+config.inmobi.com
 
 # IO
 cdn.onthe.io
@@ -605,6 +633,9 @@ m32.media
 rdc.m32.media
 
 # Magnite (Rubicon Project)
+beacon-iad2.rubiconproject.com
+beacon-iad3.rubiconproject.com
+beacon-nf.rubiconproject.com
 prebid-server.rubiconproject.com
 
 # Medallia
@@ -615,6 +646,7 @@ udc-neb.kampyle.com
 cdn.mediavoice.com
 
 # Microsoft
+clarity.ms
 dc.services.visualstudio.com
 events.data.microsoft.com
 self.events.data.microsoft.com
@@ -691,6 +723,7 @@ adserver.pressboard.ca
 
 # PubNative
 pubnative.info
+hbrc.pubnative.net
 
 # Refersion
 cdn.refersion.com
@@ -740,6 +773,9 @@ post.spmailtechno.com
 
 # Statsig
 api.statsig.com
+
+# Supersonic
+init.supersonicads.com
 
 # SuperWall (Paywall)
 api.superwall.me
@@ -810,3 +846,15 @@ sp.analytics.yahoo.com
 # Yotpo
 p.yotpo.com
 staticw2.yotpo.com
+
+# UNIDENTIFIED
+# ---------------------------------------------------------------
+
+
+d.blueduckredapple.com
+d.lazybumblebee.com
+grid-udp-use.bidswitch.net
+x.bidswitch.net
+x.blueduckredapple.com
+x.everstop.io
+x.thecatmachine.com
