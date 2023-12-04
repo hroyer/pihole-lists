@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2023/12/03
+# Last update: 2023/12/04
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -121,6 +121,9 @@ analytics360.omerloclients.com
 
 # Penske Media Corporation
 iabusprivacy.pmc.com
+
+# Quebecor
+quebecor.cloud.optable.co
 
 # Radio-Canada
 logstash-3.radio-canada.ca
@@ -448,6 +451,9 @@ run.cntxtfl.com
 # ControlD
 stats.controld.com
 
+# ConvertKit
+api.convertkit.com
+
 # Criteo
 b.da.us.criteo.com
 bidder.criteo.com
@@ -651,6 +657,7 @@ cdn.mediavoice.com
 clarity.ms
 dc.services.visualstudio.com
 events.data.microsoft.com
+in.appcenter.ms
 self.events.data.microsoft.com
 
 # Mixpanel
