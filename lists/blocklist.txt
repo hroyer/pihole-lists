@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2023/01/12
+# Last update: 2023/12/03
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -385,6 +385,8 @@ api2.branch.io
 
 # Braze
 sdk.iad-01.braze.com
+sdk.iad-02.braze.com
+sdk.iad-04.braze.com
 sdk.iad-03.braze.com
 sdk.iad-05.braze.com
 
