@@ -41,10 +41,6 @@ znaad7u8yzaqhmmxx-desjardins.siteintercept.qualtrics.com
 # DoorDash
 o17585.ingest.sentry.io
 
-# Firewalla
-# Block fake domain. Real Firewalla domain is myfirewalla.net
-myfirewalla.com
-
 # Headspace
 o28532.ingest.sentry.io
 
@@ -64,6 +60,9 @@ o1057616.ingest.sentry.io
 # FRAUD / SCAM
 # ---------------------------------------------------------------
 whats-ip.com
+
+# Block fake domain. Real Firewalla domain is myfirewalla.net
+myfirewalla.com
 
 # IOT
 # ---------------------------------------------------------------
