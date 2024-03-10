@@ -130,6 +130,7 @@ quebecor.cloud.optable.co
 
 # Radio-Canada
 logstash-3.radio-canada.ca
+radiocanada.hb-api.omtrdc.net
 radiocanada.sc.omtrdc.net
 stats.radio-canada.ca
 
