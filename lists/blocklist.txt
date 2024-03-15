@@ -39,6 +39,7 @@ wup-sec.desjardins.com
 znaad7u8yzaqhmmxx-desjardins.siteintercept.qualtrics.com
 
 # DoorDash
+iguazu.doordash.com
 o17585.ingest.sentry.io
 
 # Headspace
@@ -110,8 +111,12 @@ engagefront.meteomedia.com
 
 # MLB
 268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com
+ans.mlb.com
+an.mlb.com
+gd.mlb.com
 mlb.com.ssl.sc.omtrdc.net
 mlb.demdex.net
+mlb.sc.omtrdc.net
 mlbadvancedmedialp.tt.omtrdc.net
 znbsk4yipsnfkyadd-mlb.siteintercept.qualtrics.com
 
@@ -177,6 +182,9 @@ cdn-scripts.signifyd.com
 hudsonbaycompany.tt.omtrdc.net
 smetrics.thebay.com
 
+# Ticketmaster
+analytics.ticketmaster.ca
+
 # Walmart
 beacon.walmart.ca
 
@@ -222,6 +230,7 @@ metrics.brightcove.com
 
 # Crave
 bellmedia.sc.omtrdc.net
+bellvps1.content.video.llnw.net
 
 # Disney+
 disney.demdex.net
@@ -243,6 +252,7 @@ pt.ispot.tv
 
 # Netflix
 ichnaea.netflix.com
+logs.netflix.com
 
 # Netflix Games
 collect8304533781499.deltadna.net
@@ -297,6 +307,7 @@ a-fds.youborafds01.com
 # Adobe
 assets.adobedtm.com
 c00.adobe.com
+cc-api-data.adobe.io
 p.typekit.net
 
 # Adjust
@@ -433,6 +444,9 @@ eu1.clevertap-prod.com
 
 # Cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+
+# Cloudinary
+video-analytics-api.cloudinary.com
 
 # Comscore
 segment-data.zqtk.net
@@ -846,6 +860,7 @@ dev.visualwebsiteoptimizer.com
 # Waze
 ads-resources-legacy.waze.com
 advil.waze.com
+sdk.waze.com
 
 # WordPress
 stats.wp.com
