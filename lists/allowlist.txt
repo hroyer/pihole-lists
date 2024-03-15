@@ -1,5 +1,5 @@
 # Personal allowlist/safelist [Work in progress]
-# Last update: 2023/01/07
+# Last update: 2024/03/15
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -59,6 +59,9 @@ updates.cdn-apple.com
 vpp.itunes.apple.com
 weather-data.apple.com
 xp.apple.com
+
+# Piknik / Sago Mini
+account-api.playpiknik.com
 
 # Spotify
 apresolve.spotify.com
