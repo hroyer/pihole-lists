@@ -858,9 +858,12 @@ cdn.viglink.com
 dev.visualwebsiteoptimizer.com
 
 # Waze
+ads-resources.waze.com
 ads-resources-legacy.waze.com
+adsassets.waze.com
 advil.waze.com
 sdk.waze.com
+
 
 # WordPress
 stats.wp.com
