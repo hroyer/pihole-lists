@@ -207,6 +207,9 @@ trk.pinterest.com
 
 # Reddit
 alb.reddit.com
+packaged-media.redd.it
+w3-reporting.reddit.com
+w3-reporting-nel.reddit.com
 
 # Snapchat
 api.snapkit.com
