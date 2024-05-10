@@ -236,6 +236,7 @@ bellmedia.sc.omtrdc.net
 bellvps1.content.video.llnw.net
 
 # Disney+
+ads.twdcgrid.com
 disney.demdex.net
 sanalytics.disneyplus.com
 us-east-1.ads.digital.disneyadvertising.com
