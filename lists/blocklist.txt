@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2024/03/15
+# Last update: 2024/06/12
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
@@ -237,13 +237,14 @@ bellvps1.content.video.llnw.net
 
 # Disney+
 ads.twdcgrid.com
+diproton-ads-prod-us-east-2.hulu.com.akadns.net
 disney.demdex.net
+disney.my.sentry.io
 sanalytics.disneyplus.com
 us-east-1.ads.digital.disneyadvertising.com
 us-east-2.ads.digital.disneyadvertising.com
 us-west-1.ads.digital.disneyadvertising.com
 us-west-2.ads.digital.disneyadvertising.com
-diproton-ads-prod-us-east-2.hulu.com.akadns.net
 
 # Easybrain
 consent.easybrain.com
