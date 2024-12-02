@@ -15,6 +15,7 @@ buy.itunes-apple.com.akadns.net
 captive.apple.com
 configuration.apple.com
 crl.apple.com
+cvws.icloud-content.com
 deimos3.apple.com
 deviceenrollment.apple.com
 deviceservices-external.apple.com
