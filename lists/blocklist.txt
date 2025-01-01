@@ -3,7 +3,7 @@
 # on the website I most frequently use, with a focus on 
 # Canadian, Québécois, and French language websites.
 # 
-# Last update: 2024/06/12
+# Last update: 2025/01/01
 # 
 # Homepage: https://github.com/hroyer/pihole-lists
 # Issues: https://github.com/hroyer/pihole-lists/issues
