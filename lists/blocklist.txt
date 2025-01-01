@@ -247,6 +247,7 @@ us-west-1.ads.digital.disneyadvertising.com
 us-west-2.ads.digital.disneyadvertising.com
 
 # Easybrain
+cloudflare-content.easybrain.com
 consent.easybrain.com
 cross-promo-provider.easybrain.com
 ets.easybrain.com
