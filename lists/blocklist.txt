@@ -251,6 +251,7 @@ consent.easybrain.com
 cross-promo-provider.easybrain.com
 ets.easybrain.com
 s3-analytics-events.easybrain.com
+s3-ca-crosspromo.easybrain.com
 
 # iSpot
 pt.ispot.tv
