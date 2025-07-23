@@ -7,6 +7,9 @@
 #
 # ===============================================================
 
+# Airship
+device-api.urbanairship.com # Needed for push notifications
+
 # Apple
 albert.apple.com
 appldnld.apple.com
